@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\obj\Debug\net5.0\MISA.Amis.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\obj\Debug\net5.0\MISA.Amis.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\obj\Debug\net5.0\MISA.Amis.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\obj\Debug\net5.0\MISA.Amis.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\obj\Debug\net5.0\MISA.Amis.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\bin\Debug\net5.0\MISA.Amis.Infrastructure.deps.json
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\bin\Debug\net5.0\MISA.Amis.Infrastructure.dll
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\bin\Debug\net5.0\ref\MISA.Amis.Infrastructure.dll
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\bin\Debug\net5.0\MISA.Amis.Infrastructure.pdb
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\bin\Debug\net5.0\MISA.Amis.Core.dll
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\bin\Debug\net5.0\MISA.Amis.Core.pdb
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\obj\Debug\net5.0\MISA.Amis.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\obj\Debug\net5.0\MISA.Amis.Infrastructure.dll
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\obj\Debug\net5.0\ref\MISA.Amis.Infrastructure.dll
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Infrastructure\obj\Debug\net5.0\MISA.Amis.Infrastructure.pdb

@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\bin\Debug\net5.0\MISA.Amis.Core.deps.json
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\bin\Debug\net5.0\MISA.Amis.Core.dll
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\bin\Debug\net5.0\ref\MISA.Amis.Core.dll
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\bin\Debug\net5.0\MISA.Amis.Core.pdb
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.MyResources.ResourceErrorType.resources
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.MyResources.ResourcePropVN.resources
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.dll
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\ref\MISA.Amis.Core.dll
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.pdb
+C:\Users\Admin\Desktop\Final\BE\MISA.Amis.Api\MISA.Amis.Core\obj\Debug\net5.0\MISA.Amis.Core.MyResources.ResourceGenderVN.resources

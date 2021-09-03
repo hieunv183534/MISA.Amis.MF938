@@ -1,0 +1,220 @@
+.background-icon {
+    background-image: url('../assets/img/Sprites.64af8f61.svg');
+    background-repeat:no-repeat;
+}
+
+.position-icon-menu1 {
+    background-position: -30px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu2 {
+    background-position: -73px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu3 {
+    background-position: -117px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu4 {
+    background-position: -161px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu5 {
+    background-position: -204px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu6 {
+    background-position: -249px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu7 {
+    background-position: -291px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu8 {
+    background-position: -336px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu9 {
+    background-position: -378px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu10 {
+    background-position: -423px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu11 {
+    background-position: -467px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu12 {
+    background-position: -510px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu13 {
+    background-position: -378px -1659px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu14 {
+    background-position: -547px -1628px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu15 {
+    background-position: -204px -1664px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu-option{
+    background-position: -424px -86px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu-toggle {
+    background-position: -843px -30px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-menu-toggle-white {
+    background-position: -312px -32px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-chevron-right {
+    background-position: -80px -360px;
+    width: 14px;
+    height: 14px;
+}
+
+.position-icon-chevron-down {
+    background-position: -1076px -32px;
+    width: 14px;
+    height: 14px;
+}
+
+
+.position-icon-ring {
+    background-position: -788px -30px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-avatar-default {
+    background-position: -352px -894px;
+    width: 32px;
+    height: 32px;
+}
+
+.position-icon-refresh {
+    background-position: -423px -201px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-export-excel {
+    background-position: -705px -201px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-search {
+    background-position: -992px -360px;
+    width: 16px;
+    height: 16px;
+}
+
+.position-icon-down-blue {
+    background-position: -896px -359px;
+    width: 16px;
+    height: 16px;
+}
+
+.position-icon-down-xam {
+    background-position: -560px -359px;
+    opacity: 0.5;
+    width: 16px;
+    height: 16px;
+}
+
+
+.position-icon-down-black {
+    background-position: -560px -359px;
+    width: 16px;
+    height: 16px;
+}
+
+.position-icon-check-active {
+    background-position: -1224px -360px;
+    width: 16px;
+    height: 16px;
+}
+.position-icon-help {
+    background-position: -89px -144px;
+    width: 24px;
+    height: 24px;
+}
+
+.position-icon-x {
+    background-position: -144px -144px;
+    width: 24px;
+    height: 24px;
+}
+
+
+.position-icon-warning {
+    background-position: -592px -456px;
+    width: 48px;
+    height: 48px;
+}
+
+.position-icon-question {
+    background-position: -826px -456px;
+    width: 48px;
+    height: 48px;
+}
+
+.position-icon-danger {
+    background-position: -24px -954px;
+    width: 48px;
+    height: 48px;
+}
+
+.position-icon-success {
+    background-position: -90px -954px;
+    width: 48px;
+    height: 48px;
+}
+
+
+
